@@ -15,7 +15,8 @@
       <p></p>
     <h3>Certifications</h3>
     <hr>
-    N/A
+     <a href="https://courses.cognitiveclass.ai/certificates/5cc93b00ee334bfa801740c84660fb9a">SQL and Relational Databases 101</a>
     <p></p>
     <h3>Skillsets</h3>
     <hr>
+    <p>Programs: HTML, CSS, Java </p>
