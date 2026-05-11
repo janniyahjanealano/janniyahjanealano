@@ -28,6 +28,6 @@ I'm still a beginner at coding and more IT-related stuffs. I'm currently taking 
 **Databases:** IBM DB2 Cloud
 **Tools:**  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
-You may reach me at:
-LinkedIn: [LinkedIn profile link](https://www.linkedin.com/in/janniyah-alano-b33a68393/)
-Email: janniyahjanealano@gmail.com
+### You may reach me at:
+**LinkedIn:** [LinkedIn profile link](https://www.linkedin.com/in/janniyah-alano-b33a68393/)
+**Email:** janniyahjanealano@gmail.com
