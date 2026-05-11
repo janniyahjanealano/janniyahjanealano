@@ -31,5 +31,5 @@ I'm still a beginner at coding and more IT-related stuffs. I'm currently taking 
 ---
 
 ### You may reach me at:
-* **LinkedIn:** [LinkedIn profile link](https://www.linkedin.com/in/janniyah-alano-b33a68393/)
+* **LinkedIn:** [Janniyah Alano](https://www.linkedin.com/in/janniyah-alano-b33a68393/)
 * **Email:** janniyahjanealano@gmail.com
