@@ -24,10 +24,12 @@ I'm still a beginner at coding and more IT-related stuffs. I'm currently taking 
 
 ### Skillsets
 
-**Programs:** HTML, CSS, Java, Bash, Python
-**Databases:** IBM DB2 Cloud
-**Tools:**  Lucidchart, Jaspersoft Studio, Eclipse, HTML
+* **Programs:** HTML, CSS, Java, Bash, Python
+* **Databases:** IBM DB2 Cloud
+* **Tools:**  Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+---
 
 ### You may reach me at:
-**LinkedIn:** [LinkedIn profile link](https://www.linkedin.com/in/janniyah-alano-b33a68393/)
-**Email:** janniyahjanealano@gmail.com
+* **LinkedIn:** [LinkedIn profile link](https://www.linkedin.com/in/janniyah-alano-b33a68393/)
+* **Email:** janniyahjanealano@gmail.com
